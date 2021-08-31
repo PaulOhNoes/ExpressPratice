@@ -1,0 +1,22 @@
+{
+  "name": "expresspratice",
+  "version": "1.0.0",
+  "description": "Learning Express in my free time to get better at Javascript and node.js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulOhNoes/ExpressPratice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulOhNoes/ExpressPratice/issues"
+  },
+  "homepage": "https://github.com/PaulOhNoes/ExpressPratice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
